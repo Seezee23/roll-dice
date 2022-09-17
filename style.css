@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(111, 170, 243);
+    margin: 0;
+}
+
+   .container {
+        width: 70%;
+        margin: auto;
+        text-align: center;
+    }
+  
+    .dice {
+        text-align: center;
+        display: inline-block;
+        margin: 0px 50px;
+    }
+  
+    h1 {
+        margin: 30px;
+        font-size: 4.5rem;
+        color: #ee28a2;
+        text-align: center;
+    }
+  
+    p {
+        font-size: 2rem;
+        color: #rgb(208, 214, 218);
+    }
+  
+    img {
+        width: 300px;
+        height: 300px;
+    }
+  
+    .bottom {
+        padding-top: 30px;
+    }
+  
+    .button {
+        background: purple;
+        border-radius: 7px;
+        color: white;
+        font-size: 30px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+        text-align: center;
+
+    }
+  
+    .button:hover {
+        background: #232931;
+        text-decoration: none;
+        display: inline-block;
+    }
+
+    .Players {
+        display: flex;
+    }
