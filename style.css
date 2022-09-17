@@ -50,7 +50,6 @@ body {
     .button:hover {
         background: #232931;
         text-decoration: none;
-        display: inline-block;
     }
 
     .Players {
