@@ -4,6 +4,7 @@
 There's two players in the game
 generate random number from 1-6
 input all the images from dice 1 to dice 6
+generate string with image and with any dice image from 1 to 6
 Target the image tag and set the source to the image that generate
 
 whoever has the highest value is the winner 
